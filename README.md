@@ -1,4 +1,4 @@
-##Pharmacy App (Rest API)
+## Pharmacy-App (Rest API)
 for WireApps Pvt Ltd
 
 Add Dependencies (NPM install)
