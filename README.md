@@ -1,9 +1,9 @@
-#Pharmacy App (Rest API)
+##Pharmacy App (Rest API)
 for WireApps Pvt Ltd
 
-Add Dependancies (NPM install)
+Add Dependencies (NPM install)
 
-Create Enviromental Varibles 
+Create Environmental Variables 
 Join MongoDB URl
 Add Acess Token and Refresh Token
-I have attched the Enviromental varible File to Email But mongo db URL should replaced
+I have attached the Enviromental variable File to the Email But Mongo db URL should replaced
